@@ -4,7 +4,11 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <meta property="og:title" content="Regard Chemical">
+    <meta property="og:description" content="Regard Chemical">
+    <meta property="og:image" content="https://regardchemical.com.bd/assets/images/p1.jpeg">
+    <meta property="og:url" content="https://regardchemical.com.bd/assets/images/p1.jpeg">
+    <meta property="og:type" content="website">
     <title>Regard Chemical::<?= $page_name; ?></title>
     
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
