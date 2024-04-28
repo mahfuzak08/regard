@@ -38,7 +38,7 @@
           <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
               <ul class="navbar-nav ml-auto mr-5">
                   <li class="nav-item <?= $page_name == 'Home' ? 'active' : '' ?>">
-                      <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                      <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item <?= $page_name == 'About Us' ? 'active' : '' ?>">
                       <a class="nav-link" href="about.php">About</a>

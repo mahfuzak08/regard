@@ -19,23 +19,23 @@ include_once('_header.php');
         <div class="grids-area-hny main-cont-wthree-fea row">
             <div class="col-lg-4 col-md-6 grids-feature">
                 <div class="area-box">
-                    <span class="title-small mb-2">01. Refreshing and Cleansing</span>
-                    <h4><a href="#feature" class="title-head">Ideal for skincare routines.</a></h4>
-                    <p class="">Ideal for skincare routines, it offers a gentle yet effective way to revitalize and purify the skin. Made from distilled rose petals. </p>
+                    <span class="title-small mb-2">01. Rose Water</span>
+                    <!-- <h4><a href="#feature" class="title-head">Ideal for skincare routines.</a></h4> -->
+                    <p class="">Rose water is a liquid made from water and rose petals. It is used as a perfume due to its sweet scent, but it has medicinal and culinary values, as well.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-5">
                 <div class="area-box">
                     <span class="title-small mb-2">02. Kewra Water</span>
-                    <h4><a href="#feature" class="title-head">All kind 1st food made</a></h4>
+                    <!-- <h4><a href="#feature" class="title-head">All kind 1st food made</a></h4> -->
                     <p class="">Kewra water is an extract that is distilled from pandanus flowers. It is a transparent liquid, almost similar to rose water</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-5">
                 <div class="area-box">
-                    <span class="title-small mb-2">03. Trifolla</span>
-                    <h4><a href="#feature" class="title-head">All kind 1st food made</a></h4>
-                    <p class="">Kewra water is an extract that is distilled from pandanus flowers. It is a transparent liquid, almost similar to rose water</p>
+                    <span class="title-small mb-2">03. Vinegar</span>
+                    <!-- <h4><a href="#feature" class="title-head">All kind 1st food made</a></h4> -->
+                    <p class="">Vinegar is a combination of acetic acid and water made by a two-step fermentation process. It is used in cooking, baking, pickling etc.</p>
                 </div>
             </div>
         </div>
@@ -65,73 +65,73 @@ include_once('_header.php');
             <div class="row galler-top">
                 <div class="col-lg-3 col-sm-6 protfolio-item hover14">
                     <figure>
-                        <img src="assets/images/p01.jpeg" alt="product" class="img-fluid" />
+                        <img src="assets/images/p1.jpeg" alt="product" class="img-fluid" />
                         <div class="img-info">
-                            <a href="#url" class="img-title">UI experience</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p>
+                            <a href="#url" class="img-title">Rose Water</a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p> -->
                         </div>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-sm-6 protfolio-item hover14">
                     <figure>
-                        <img src="assets/images/p02.jpeg" alt="product" class="img-fluid">
+                        <img src="assets/images/p2.jpeg" alt="product" class="img-fluid">
                         <div class="img-info">
-                            <a href="#url" class="img-title">Wordpress</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p>
+                            <a href="#url" class="img-title">Vinegar</a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p> -->
                         </div>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-sm-6 protfolio-item hover14">
                     <figure>
-                        <img src="assets/images/p03.jpeg" alt="product" class="img-fluid">
+                        <img src="assets/images/p3.jpeg" alt="product" class="img-fluid">
                         <div class="img-info">
-                            <a href="#url" class="img-title">Ecommerce</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p>
+                            <a href="#url" class="img-title">Kewra Water</a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p> -->
                         </div>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-sm-6 protfolio-item hover14">
                     <figure>
-                        <img src="assets/images/p04.jpg" alt="product" class="img-fluid">
+                        <img src="assets/images/p4.jpeg" alt="product" class="img-fluid">
                         <div class="img-info">
-                            <a href="#url" class="img-title">Headphones</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p>
+                            <a href="#url" class="img-title">Trifala</a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p> -->
                         </div>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-sm-6 protfolio-item hover14">
                     <figure>
-                        <img src="assets/images/p05.jpg" alt="product" class="img-fluid">
+                        <img src="assets/images/p5.jpg" alt="product" class="img-fluid">
                         <div class="img-info">
-                            <a href="#url" class="img-title">Mobile app</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p>
+                            <a href="#url" class="img-title">Pattizarda</a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p> -->
                         </div>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-sm-6 protfolio-item hover14">
                     <figure>
-                        <img src="assets/images/p06.jpg" alt="product" class="img-fluid">
+                        <img src="assets/images/p6.jpg" alt="product" class="img-fluid">
                         <div class="img-info">
-                            <a href="#url" class="img-title">Modern Ideas</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p>
+                            <a href="#url" class="img-title">Spraying Rose Water</a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p> -->
                         </div>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-sm-6 protfolio-item hover14">
                     <figure>
-                        <img src="assets/images/p07.jpg" alt="product" class="img-fluid">
+                        <img src="assets/images/p7.jpg" alt="product" class="img-fluid">
                         <div class="img-info">
-                            <a href="#url" class="img-title">Creativity</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p>
+                            <a href="#url" class="img-title">Custard Powder</a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p> -->
                         </div>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-sm-6 protfolio-item hover14">
                     <figure>
-                        <img src="assets/images/p08.jpg" alt="product" class="img-fluid">
+                        <img src="assets/images/p8.jpg" alt="product" class="img-fluid">
                         <div class="img-info">
-                            <a href="#url" class="img-title">Fashion design</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p>
+                            <a href="#url" class="img-title">Corn Flour</a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, quia.</p> -->
                         </div>
                     </figure>
                 </div>

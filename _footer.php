@@ -6,8 +6,7 @@
         <div class="footer-logo mb-4">
           <a class="navbar-brand" href="index.html">Regard Chemical</a>
         </div>
-        <p>We are real pros at digital and web design. We work for our clients to provide them with the best service
-          and products. We value every project as we get invaluable experience.</p>
+        <p>REGARD CHEMICAL WORKS, a trusted name in the industry since 1952. Founded by Mr. Keramat Ullah, our company has been dedicated to providing balanced and high-quality food products to consumers worldwide.</p>
         <div class="main-social-footer-29 mt-4">
           <a href="#facebook" class="facebook"><span class="fa fa-facebook"></span></a>
           <a href="#twitter" class="twitter"><span class="fa fa-twitter"></span></a>
@@ -19,11 +18,10 @@
 
         <ul>
           <h6 class="footer-title-29">Useful Links</h6>
-          <li><a href="about.html">About Us</a></li>
-          <li><a href="#blog"> Blog posts</a></li>
-          <li><a href="#pricing"> Pricing plans</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="contact.html">Contact us</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="about.php">About Us</a></li>
+          <li><a href="products.php"> Product</a></li>
+          <li><a href="contact.php">Contact us</a></li>
         </ul>
       </div>
       <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-3 mt-lg-0 mt-5">
